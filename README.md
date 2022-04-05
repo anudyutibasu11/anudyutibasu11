@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anudyutibasu11
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning PHP, PYTHON
+- 🌱 I’m currently learning PHP & PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
