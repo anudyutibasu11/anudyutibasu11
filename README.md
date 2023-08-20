@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/anudyutibasu11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="anudyutibasu11" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100018511155046" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="অনুদ্যুতি বসু" height="30" width="40" /></a>
-<a href="https://instagram.com/anudyutibasu11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="anudyutibasu11" height="40" width="40" /></a></p>
+<a href="https://instagram.com/anudyutibasu11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="anudyutibasu11" height="30" width="30" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
